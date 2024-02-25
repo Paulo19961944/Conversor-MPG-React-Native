@@ -8,7 +8,7 @@ Eu não usei os componentes ainda pois é meu primeiro código, mas vou explicar
 
 Então ele captura os dados do input e do resultado como vazio. E uma função é adicionada ao clicar no botão. Crio uma variável MPG e o resultado é a formula para calcular em Km/l. Depois ele exibe um Alert na tela dizendo o Resultado da Conversão.
 
-Depois ele zera os valores, e no código XML ele retorna uma Div e tem outra Div dentro dela ue está centralizada, e com a cor branca para gerar um contraste. Eu importo os CSS, e o TouchbleOpacity importa o botão.
+Depois ele zera os valores, e no código XML ele retorna uma Div e tem outra Div dentro dela que está centralizada, e com a cor branca para gerar um contraste. Eu importo os CSS, e o TouchbleOpacity importa o botão.
 
 No CSS como eu disse faz a cor de fundo ser preta e centraliza a div. E nessa div tem um fundo branco, um preenchimeto de 20px, um Border Radius para arredondar as bordas e define a largura com 320px e a altura com 400px
 
